@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>feedbackinformation</key>
+		<array>
+			<integer>1</integer>
+			<integer>2</integer>
+			<integer>1</integer>
+		</array>
+		<key>class</key>
+		<string>英语</string>
+		<key>teacher</key>
+		<string>黄菲菲</string>
+		<key>place</key>
+		<string>新东方武林门中心校区</string>
+		<key>year</key>
+		<string>2013</string>
+		<key>date</key>
+		<string>3月27日</string>
+		<key>name</key>
+		<string>张小明</string>
+	</dict>
+	<dict>
+		<key>feedbackinformation</key>
+		<array>
+			<integer>0</integer>
+			<integer>1</integer>
+			<integer>2</integer>
+		</array>
+		<key>class</key>
+		<string>数学</string>
+		<key>teacher</key>
+		<string>方明</string>
+		<key>place</key>
+		<string>新东方武林门校区</string>
+		<key>year</key>
+		<string>2013</string>
+		<key>date</key>
+		<string>3月28日</string>
+		<key>name</key>
+		<string>王小光</string>
+	</dict>
+	<dict/>
+	<dict/>
+	<dict/>
+</array>
+</plist>

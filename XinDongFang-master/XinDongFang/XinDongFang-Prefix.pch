@@ -1,0 +1,27 @@
+//
+// Prefix header for all source files of the 'XinDongFang' target in the 'XinDongFang' project
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_3_0
+#warning "This project uses features only available in iOS SDK 3.0 and later."
+#endif
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+#endif
+
+
+#define kAppKey                                 @"2901939454"
+#define kAppSecret                              @"d81a6d520bd19893b0bac2cc7989db45"
+#define kAppRedirectURI                         @"http://www.hzgreaten.com/"
+
+#define kSinaKeyChainUserID                     @"UserIDKey"
+#define kSinaKeyChainAccessToken                @"AccessTokenKey"
+#define kSinaKeyChainExpireTime                 @"ExpirationDateKey"
+#define kSinaKeyChainRefreshToken               @"refresh_token"
+
+#define DBNAME                                  @"xindongfangInfo.sqlite"
+#define TABLENAME_NEWSINFOR                     @"NEWSINFO"

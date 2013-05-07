@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<string>常用的交际用语训练</string>
+		<string>结合课本知识和中考考点，讲解一般现在时和现在进行时</string>
+		<string>一般疑问句和特殊疑问句等用法</string>
+		<string>学习固定句型的表达方式</string>
+	</array>
+	<array>
+		<dict>
+			<key>New item - 3</key>
+			<string></string>
+			<key>New item - 2</key>
+			<string></string>
+			<key>New item</key>
+			<string></string>
+		</dict>
+	</array>
+	<array>
+		<string>复习常用的交际用语</string>
+		<string>造句完成一般疑问句和特殊疑问句等句型</string>
+		<string>写一篇不少于500字的散文</string>
+	</array>
+</array>
+</plist>
